@@ -1,0 +1,9 @@
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\TemperaturLib\bin\Debug\netcoreapp3.1\TemperaturLib.deps.json
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\TemperaturLib\bin\Debug\netcoreapp3.1\TemperaturLib.dll
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\TemperaturLib\bin\Debug\netcoreapp3.1\TemperaturLib.pdb
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\TemperaturLib\obj\Debug\netcoreapp3.1\TemperaturLib.csprojAssemblyReference.cache
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\TemperaturLib\obj\Debug\netcoreapp3.1\TemperaturLib.csproj.CoreCompileInputs.cache
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\TemperaturLib\obj\Debug\netcoreapp3.1\TemperaturLib.AssemblyInfoInputs.cache
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\TemperaturLib\obj\Debug\netcoreapp3.1\TemperaturLib.AssemblyInfo.cs
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\TemperaturLib\obj\Debug\netcoreapp3.1\TemperaturLib.dll
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\TemperaturLib\obj\Debug\netcoreapp3.1\TemperaturLib.pdb

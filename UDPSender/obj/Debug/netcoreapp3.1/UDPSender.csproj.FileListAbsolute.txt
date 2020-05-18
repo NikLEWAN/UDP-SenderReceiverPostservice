@@ -1,0 +1,17 @@
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPSender\bin\Debug\netcoreapp3.1\UDPSender.exe
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPSender\bin\Debug\netcoreapp3.1\UDPSender.deps.json
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPSender\bin\Debug\netcoreapp3.1\UDPSender.runtimeconfig.json
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPSender\bin\Debug\netcoreapp3.1\UDPSender.runtimeconfig.dev.json
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPSender\bin\Debug\netcoreapp3.1\UDPSender.dll
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPSender\bin\Debug\netcoreapp3.1\UDPSender.pdb
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPSender\obj\Debug\netcoreapp3.1\UDPSender.csprojAssemblyReference.cache
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPSender\obj\Debug\netcoreapp3.1\UDPSender.csproj.CoreCompileInputs.cache
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPSender\obj\Debug\netcoreapp3.1\UDPSender.AssemblyInfoInputs.cache
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPSender\obj\Debug\netcoreapp3.1\UDPSender.AssemblyInfo.cs
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPSender\obj\Debug\netcoreapp3.1\UDPSender.dll
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPSender\obj\Debug\netcoreapp3.1\UDPSender.pdb
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPSender\obj\Debug\netcoreapp3.1\UDPSender.genruntimeconfig.cache
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPSender\bin\Debug\netcoreapp3.1\TemperaturLib.dll
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPSender\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPSender\bin\Debug\netcoreapp3.1\TemperaturLib.pdb
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPSender\obj\Debug\netcoreapp3.1\UDPSender.csproj.CopyComplete

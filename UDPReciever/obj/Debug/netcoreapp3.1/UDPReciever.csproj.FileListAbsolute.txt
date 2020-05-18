@@ -1,0 +1,17 @@
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPReciever\bin\Debug\netcoreapp3.1\UDPReciever.exe
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPReciever\obj\Debug\netcoreapp3.1\UDPReciever.csprojAssemblyReference.cache
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPReciever\obj\Debug\netcoreapp3.1\UDPReciever.AssemblyInfoInputs.cache
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPReciever\obj\Debug\netcoreapp3.1\UDPReciever.AssemblyInfo.cs
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPReciever\bin\Debug\netcoreapp3.1\UDPReciever.deps.json
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPReciever\bin\Debug\netcoreapp3.1\UDPReciever.runtimeconfig.json
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPReciever\bin\Debug\netcoreapp3.1\UDPReciever.runtimeconfig.dev.json
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPReciever\bin\Debug\netcoreapp3.1\UDPReciever.dll
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPReciever\bin\Debug\netcoreapp3.1\UDPReciever.pdb
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPReciever\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPReciever\bin\Debug\netcoreapp3.1\TemperaturLib.dll
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPReciever\bin\Debug\netcoreapp3.1\TemperaturLib.pdb
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPReciever\obj\Debug\netcoreapp3.1\UDPReciever.csproj.CoreCompileInputs.cache
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPReciever\obj\Debug\netcoreapp3.1\UDPReciever.csproj.CopyComplete
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPReciever\obj\Debug\netcoreapp3.1\UDPReciever.dll
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPReciever\obj\Debug\netcoreapp3.1\UDPReciever.pdb
+C:\Users\Bendover\Desktop\skole\programmering\ApiTest\UDPSender\UDPReciever\obj\Debug\netcoreapp3.1\UDPReciever.genruntimeconfig.cache

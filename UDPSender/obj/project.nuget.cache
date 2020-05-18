@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9aHQME//uJzkHEDTMdnpPCZY8klINwCGRqeeqbK4bCXQ76AWO3bxGMgXDbptxgH0IWRmftohHnmLFt2vQFYAeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bendover\\Desktop\\skole\\programmering\\ApiTest\\UDPSender\\UDPSender\\UDPSender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bendover\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
