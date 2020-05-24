@@ -13,7 +13,7 @@ namespace UDPReciever
     {
         public async void PostItemHttpTask(TemperaturLib.Temperatur temperatur)
         {
-            string EventWebApi = "https://localhost:44347/";
+            string EventWebApi = "https://goldenice20200505111435.azurewebsites.net/";
             // Measurement.Measurement newMeasure = new Measurement.Measurement(DateTime.Now, "D5.16", "Ozon", 9.12, "Rasp v.1.0");
 
             using (HttpClient client = new HttpClient())
@@ -30,10 +30,10 @@ namespace UDPReciever
                 {
                     Console.WriteLine(VARIABLE);
                 }
-                var response = client.PostAsync("api/measurements", content).Result;
+                var response = client.PostAsync("api/Weathers", content).Result;
                 if (response.IsSuccessStatusCode)
                 {
-                    var responseEvent = client.GetAsync("api/measurements" + temperatur).Result;
+                    var responseEvent = client.GetAsync("api/Weathers" + temperatur).Result;
                     if (responseEvent.IsSuccessStatusCode)
                     {
                         //var Event = responseEvent.Content.ReadAsStreamAsync<Event>().Result;

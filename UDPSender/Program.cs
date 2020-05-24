@@ -26,7 +26,7 @@ namespace UDPSender
 
             while (true)
             {
-                temperatur = new TemperaturLib.Temperatur(1, DateTime.Now);
+                temperatur = new TemperaturLib.Temperatur(rvalue.Next(0, 28), DateTime.Now);
 
                 byte[] sendBytes = Encoding.ASCII.GetBytes(temperatur.ToString());
 
